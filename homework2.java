@@ -14,6 +14,6 @@ public class homework2 {
         int g = ((a/10)%10);
         int h = (a/100)%10;
         System.out.println(f+g+h);
-        System.out.println(23456789);
+        System.out.println("hello");
     }
 }
